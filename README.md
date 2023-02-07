@@ -1,7 +1,7 @@
 # About me
 
 <h3>Education<h3>
-- Sejong Science High School, 2019 - 2021  
+- Sejong Science High School, 2019 - 2021   
 - Undergraduate, Computer and Information Systems Security, Korea University, 2022 - present
 
 <h3>Using Language & Tools</h3>
