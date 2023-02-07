@@ -1,7 +1,7 @@
 # About me
 
 <h3>Education<h3>
-- Sejong Science High School, 2019 - 2021   
+- Sejong Science High School, 2019 - 2021<br/>
 - Undergraduate, Computer and Information Systems Security, Korea University, 2022 - present
 
 <h3>Using Language & Tools</h3>
@@ -12,5 +12,5 @@
 </div>
 
 <h3>Contact</h3>
-Mail: tmdwp54977@gmail.com  
+Mail: tmdwp54977@gmail.com<br/>
 Instagram: tmdwp_lee
