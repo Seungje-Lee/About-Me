@@ -1,6 +1,9 @@
 # About me
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdwp54977)](https://solved.ac/tmdwp54977/)
+
+
 # <h3>Education<h3>
 - Sejong Science High School, 2019 - 2021<br/>
 - Undergraduate, Computer and Information Systems Security, Korea University, 2022 - present
